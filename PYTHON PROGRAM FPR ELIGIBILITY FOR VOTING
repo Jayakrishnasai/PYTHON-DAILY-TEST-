@@ -1,7 +1,0 @@
-#python programming for eligibilty for voting.
-
-a=int(input("enter the age : "));
-if(a>=18):
-     print("person is eligible for voting")
-else:
-     print("person is not eligible for voting")
